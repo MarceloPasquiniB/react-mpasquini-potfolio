@@ -15,7 +15,7 @@ This is my portfolio, containing some of my work as a front-end developer.
 
 Home Page             |  About   
 :-------------------------:|:-------------------------: 
-![ Home Page](https://raw.githubusercontent.com/MarceloPasquiniB/react-mpasquini-potfolio/main/screenshots/landing.png?token=AUIM4TYY2KNWSKYOYNIZYHLBINQIY)  |  ![ About](https://raw.githubusercontent.com/MarceloPasquiniB/react-mpasquini-potfolio/main/screenshots/home.png?token=AUIM4T2PBRTV3BW3RYWTVOLBINQJ2)  
+![ Home Page](https://raw.githubusercontent.com/MarceloPasquiniB/react-mpasquini-potfolio/main/screenshots/landing.png)  |  ![ About](https://raw.githubusercontent.com/MarceloPasquiniB/react-mpasquini-potfolio/main/screenshots/home.png)  
 
 
 ## 🔧 Dev tools
