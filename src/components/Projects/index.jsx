@@ -61,7 +61,7 @@ export default function Projects() {
             <Button onClick={() => window.open(CardData.cardTwo.live)}>
               Live
             </Button>
-            <Button onClick={() => window.open(CardData.cardTWo.code)}>
+            <Button onClick={() => window.open(CardData.cardTwo.code)}>
               Code
             </Button>
           </ButtonWrap>
