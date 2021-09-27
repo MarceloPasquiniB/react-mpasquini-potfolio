@@ -79,7 +79,7 @@ export default function Projects() {
         <ProjectsWrapper>
           <ProjectsCard>
             <ProjectsIcon src={Icon1} />
-            <ProjectsH2>RGB Game</ProjectsH2>
+            <ProjectsH2>Web App Template</ProjectsH2>
             <ProjectsP> {CardData.cardOne.tools}</ProjectsP>
             <Button id="cardOne" onClick={handleOpenModal}>
               More
