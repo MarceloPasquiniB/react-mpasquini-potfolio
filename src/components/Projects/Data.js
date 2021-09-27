@@ -1,10 +1,10 @@
 export const CardData = {
   cardOne: {
-    projectName: "RGB Game",
-    description: "This project concerns in a browser game to challenges the player to choose from four options, witch button corresponds to an RGB color indication.",
-    tools: "JavaScript | CSS | HTML | ReactJS | Styled Components",
-    live: "https://mpasquini-rgb-game.netlify.app/",
-    code: "https://github.com/MarceloPasquiniB/React-rgb-color-game",
+    projectName: "Web App Template",
+    description: "This project consists of a web application template, integrated with Google Firebase.",
+    tools: "TypeScript | HTML | NextJS | Tailwind CSS",
+    live: "https://mpasquini-system-template.netlify.app/",
+    code: "https://github.com/MarceloPasquiniB/nextjs-system-template",
   },
   cardTwo: {
     projectName: "NGO Mobile First Website",
