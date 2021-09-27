@@ -104,8 +104,7 @@ export default function Projects() {
             <ProjectsIcon src={Icon4} />
             <ProjectsH2>More Projects</ProjectsH2>
             <ProjectsP>
-              Take a look on my GitHub for more Front-End and Data Analytics
-              Projects
+              Take a look on my GitHub for more projects
             </ProjectsP>
             <Button id="cardMore" onClick={openGitHub}>
               More
