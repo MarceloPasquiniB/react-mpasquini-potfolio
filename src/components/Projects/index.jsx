@@ -87,7 +87,7 @@ export default function Projects() {
           </ProjectsCard>
           <ProjectsCard>
             <ProjectsIcon src={Icon2} />
-            <ProjectsH2>NGO Rensponsive Website</ProjectsH2>
+            <ProjectsH2>NGO Responsive Website</ProjectsH2>
             <ProjectsP> {CardData.cardTwo.tools}</ProjectsP>
             <Button id="cardTwo" onClick={handleOpenModal}>
               More
